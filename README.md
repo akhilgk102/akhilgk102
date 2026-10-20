@@ -49,44 +49,6 @@ I'm a full stack developer based in Kerala, India. I design and build web applic
 
 ---
 
-## 📌 Featured Projects
-
-<!-- Replace the entries below with your pinned repositories -->
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Project One](https://github.com/akhilgk102)** | Short description of what it does and the problem it solves | Django · PostgreSQL |
-| **[Project Two](https://github.com/akhilgk102)** | Short description of what it does and the problem it solves | React · DRF |
-| **[Project Three](https://github.com/akhilgk102)** | Short description of what it does and the problem it solves | JavaScript · Tailwind |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akhilgk102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilgk102&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=akhilgk102&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
-
-</div>
-
-<details>
-<summary><b>📈 Contribution activity</b></summary>
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akhilgk102&theme=tokyo-night&hide_border=true&area=true)](https://github.com/akhilgk102)
-
-</div>
-
-</details>
-
----
 
 
 <div align="center">
