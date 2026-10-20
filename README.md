@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:0EA5E9&text=Akhil%20GK&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22" alt="Akhil GK banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:0EA5E9&text=Akhil%20G%Krishnan&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22" alt="Akhil GK banner" width="100%" />
 
 **Building reliable, scalable web applications with Python, Django and modern JavaScript.**
 
